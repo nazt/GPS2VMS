@@ -7,8 +7,8 @@
 	<meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type" />
 	<link href="http://iwebkit.net/apple-touch-icon.png" rel="apple-touch-icon" />
 	<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
-	<link href="/CTIS/Framework/css/style.css" rel="stylesheet" type="text/css" />
-	<script src="/CTIS/Framework/javascript/functions.js" type="text/javascript"></script>
+	<link href="/gps2vms/Framework/css/style.css" rel="stylesheet" type="text/css" />
+	<script src="/gps2vms/Framework/javascript/functions.js" type="text/javascript"></script>
  
 		
 <title>ระบบรายงานสภาพจราจรโดยเครือข่ายผู้ใช้งาน</title>	
@@ -21,7 +21,7 @@
 		<div id="title">
 			ป้ายจราจรอัจฉริยะ</div>
 		<div id="leftnav">
-		<a href="/CTIS/vms">Back</a>
+		<a href="/gps2vms/vms">Back</a>
 		</div>
 	</div>
 <div id="content">
